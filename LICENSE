@@ -27,4 +27,9 @@ just test
 i modeify
 
 new branch modify
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+
+overcome confict
+>>>>>>> feature1
