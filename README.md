@@ -1,4 +1,4 @@
-# 整合IDEA+Maven+SSM框架的高并发的商品秒杀项目
+﻿# 整合IDEA+Maven+SSM框架的高并发的商品秒杀项目
 
 ![Mac OS X 10.12.4](https://img.shields.io/badge/Mac%20OS%20X-10.12.4-lightgrey.svg) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2017.2.6-red.svg) 
@@ -369,3 +369,4 @@ public interface SuccessKilledMapper {
   [25]: https://www.github.com/nnngu/FigureBed/raw/master/2018/1/28/1517077063824.jpg
   [26]: https://www.github.com/nnngu/FigureBed/raw/master/2018/1/30/1517268720971.jpg
 
+修改
